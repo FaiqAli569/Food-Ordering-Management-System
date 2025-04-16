@@ -3,15 +3,6 @@
 ## Introduction
 This platform aims to provide users with a convenient way to order food from a variety of restaurants. Whether you're craving pizza, sushi, or something exotic, our platform connects you with the best local eateries in just a few clicks.
 
-## About the Team
-This project is being developed by a team of students as part of the "Database" course at FAST-NU, Lahore. The team members are:
-
-- [**Bilal Ahmad**](https://github.com/ahmddbilall)
-- [**Akhyar Chaudhary**](https://github.com/mac-360)
-- [**Talha Asif**](https://github.com/MuhammadTalhaAsif002)
-
-
-
 ## Functionalities
 Below are the functionalities proposed for this project:
 
